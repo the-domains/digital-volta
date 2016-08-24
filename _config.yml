@@ -1,0 +1,14 @@
+layout_spectrum: 0.7178369497414678
+typography_spectrum: 0.6469960899557918
+color:
+  brandStrength: 0.3895917199552059
+  lightness: 0.43885822920128703
+  saturation: 0.7175047311466187
+  rhythmicContrast: 0.6237205676734447
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Digital Volta

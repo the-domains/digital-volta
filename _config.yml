@@ -12,3 +12,7 @@ color:
     - '#5C6B73'
     - '#253237'
 name: Digital Volta
+navigation:
+  - name: Visit Grand Teton in this 8K Timelapse
+    id: 5d4193b1-53f4-4a6d-a68c-94e5f0b937ef
+    type: content
